@@ -1,0 +1,35 @@
+.head {
+width: 212px;
+height: 66px;
+left: 1167px;
+top: 9692px;
+font-weight: 700;
+font-size: 28px;
+line-height: 33px;
+text-align: center;
+text-transform: uppercase;
+display: inline;
+}
+
+.followStyle{
+font-weight: 600;
+font-size: 20px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #3E6886;
+  }
+
+  a:active {
+    color: #3E6886;
+  }
+
+  a:visited {
+    color: #3E6886;
+  }
+  a:hover {
+    color: #3E6886;
+  }
+
+  

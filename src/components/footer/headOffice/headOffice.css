@@ -1,0 +1,20 @@
+.officeStyle {
+    width: 217px;
+    height: 75px;
+    text-align: left;
+    color: #3E6886;
+}
+
+.officeStyle button{
+width: 178px;
+height: 50px;
+left: 88px;
+top: 9923px;
+background: #3E6886;
+border-radius: 8px;
+border: none;
+}
+
+h3 {
+    padding-top: 20px;
+}

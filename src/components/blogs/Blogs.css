@@ -1,0 +1,35 @@
+.featuresHeading{
+    color: #1D4A74;
+    text-align: left;
+    padding-left: 100px;
+}
+
+.blogsLink{
+    color: #799FBB;
+    text-align: right;
+    font-weight: 600;
+    
+}
+
+a:link {
+    text-decoration: none;
+    text-align: right;
+  }
+
+.lastTitle{
+    background-color: #3E6886;
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 79px 400px 69px 404px;
+}
+
+.lastTitle button{
+    background-color: #82C0EE;
+    color: #234C69;
+    padding: 10px 50px 15px 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 23px;
+    font-weight: 660;
+}

@@ -1,0 +1,27 @@
+.servicesInfo{
+    color: #233b61;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.servicesInfo a{
+    color: #6BABDA;
+    font-style: italic;
+    list-style: none;
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+  .box{
+    display: flex;
+    flex-wrap: wrap;
+     width: 100%; 
+    margin: 1rem;
+  }
+
+  .box li{
+    flex: 1 1 220px;
+      margin: 10px;
+  }

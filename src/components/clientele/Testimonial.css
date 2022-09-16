@@ -1,0 +1,28 @@
+.background{
+    color: #3E6886;
+    font-weight:450;
+    font-size: 20px;
+}
+
+.subtext{
+    color: #3E6886;
+    font-weight:500;
+    font-size: 25px;     
+}
+
+.textClass p{
+    display: inline; 
+    padding-top: 30px;
+    width: 40%;
+}
+
+.subtext2{
+    color: #799FBB;
+    font-weight:550;
+    font-size: 25px; 
+    text-align: center;
+}
+a:link {
+    text-decoration: none;
+  }
+

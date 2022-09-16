@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  color: #6BABDA;
+  background-color: #EFF9FC;
 }
 
+.bg{
+  background: linear-gradient(#F6FCFC, #DFF2F8, #A6D7F3);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +40,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.containercss  {
+  color: black;
 }

@@ -1,0 +1,28 @@
+.offerhead{
+    color: #3E6886;
+    font-weight: 700;
+}
+
+.offerbody{
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #3E6886;
+    font-weight: 495;
+    font-size: 18px;
+}
+
+.offerbody b{
+    font-weight: 590;
+}
+
+.buttonDesign{
+    background-color: #e8f9f6;
+    border: none;
+    border-radius: 6px;
+    margin: 10px 15px;
+    padding: 10px 15px;
+    font-weight: 700;
+    color: #2F5067;
+    width: 393px;
+
+}

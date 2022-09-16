@@ -1,0 +1,11 @@
+li{
+    display:inline-block;
+    list-style: none;
+  }
+
+.footerStyle {
+text-align: left;
+color: #3E6886;
+display:inline-block;
+}
+  

@@ -1,0 +1,12 @@
+.listStyle {
+    display: block;
+}
+
+.companyStyle {
+    text-align: left;
+    padding-right: 30px;
+}
+
+.companyStyle h3{
+    padding-left: 30px;
+}

@@ -1,0 +1,79 @@
+.missionBg{
+    padding-top:20px;
+    padding-left: 76px;
+    padding-right: 90px;
+    background-color: #EFF9FC;
+    color:#799FBB;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.missionButton{
+    background-color: #6BABDA;
+    width: 212px;
+    height: 67px;
+    border-radius: 6px;
+    text-align: center;
+    color: white;
+    border: none;
+    float: left;
+    font-weight: 600;
+    font-size: 30px;
+    
+}
+
+.buttonText{
+    color: #467DA5;
+    font-size: 23px;
+    text-align: left;
+    width: 100%;
+}
+
+.visionText{
+     margin-top: 130px;
+     margin-left: 76px;
+     margin-right: 92px;
+     background-color: #467DA5;
+     color: white;
+     padding: 10px 620px 23px 62px;
+     height: 65px;
+     text-align: center;
+     font-size: 25px;
+     font-weight: 550;
+     border-radius: 4px;
+}
+
+.missionText{
+    margin-top: 130px;
+    margin-left: 76px;
+    margin-right: 92px;
+    background-color: #A6D7F3;
+    color: #3E6886;
+    padding: 20px 620px 20px 62px;
+    height: 100%;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 550;
+    border-radius: 4px;
+    margin-bottom: 94px;
+}
+
+.missionText li{
+    list-style: '-';
+    font-weight: 600;
+}
+
+.missionText li b{
+    font-weight: 650;
+}
+
+a{
+    padding-top: 94px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #A6D7F3;
+  }
+
+

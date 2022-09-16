@@ -1,0 +1,131 @@
+.fcolor{
+    color:#3E6886;
+    font-weight:550;
+    font-size: 40px;
+}
+
+.solnbg{
+    font-weight: 600;
+    margin: 100px;
+    text-align: left;
+    background-color: #EFF9FC;
+}
+
+.solnbody{
+    text-align: left;
+}
+.solninfo{
+    color: #3E6886;
+    font-weight:630;
+    font-size: 30px;
+    text-align: left;
+}
+   
+  .factsList li{
+    display: block;
+    list-style: none;
+    color: #233b61;
+    font-weight: 400;
+    font-size: 20px;
+    flex: 1 1 350px;
+    margin: 10px;
+  }
+
+  .row {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 40px;    
+    width: 100%;
+    padding: 10px;
+    border: none;
+    /* background-color: red; */
+  }
+
+  .row >*{
+    padding: 30px;
+    /* background-color: red; */
+    
+  }
+  
+  .card-grid{
+    display: flex;
+    
+    padding: 30px;
+    margin: 30px;
+  }
+
+    /* .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    margin: 15px;
+    width: 100%;
+    box-shadow: 0 2px 20px  #e1e5ee;
+    background-color: #EFF9FC;;
+    height: 100px;
+    border: none;
+  } */
+
+  
+ /* .card-grid{
+  justify-content: space-around;
+  display: flex; 
+  grid-template-columns: auto auto ;  */
+   /* padding: 10px;
+  margin: 20px; 
+  width: 620px;
+  flex-wrap: wrap;
+  margin: 2vmin;
+  float: left;
+  background-color: #EFF9FC;
+  border: none;
+} 
+
+/*.box{
+   display: flex;
+  flex-wrap: wrap;
+   width: 100%; 
+  margin: 1rem;
+} */
+/* .box>* {
+  flex: 1 1 50%;
+  margin: 10px;
+  flex-basis: 100%;
+} */
+
+/* .box li{
+  flex: 1 1 220px;
+    margin: 10px;
+} */
+
+
+/* .card-grid Card{
+    /* padding: 2%; */
+    /* font-size: 30px;
+    text-align: center; */
+    /* width: 40px; */
+     /* border: none;
+    box-shadow: 0 2px 20px  #e1e5ee;
+    background-color: #EFF9FC;
+} */ 
+
+/* .flex-child{
+    flex-grow: 1;
+    flex-basis: 10%;
+} */
+
+/* .card-grid ul{
+    display: flex;
+  flex-wrap: wrap;
+  /* margin: 2vmin; 
+}*/
+
+/* .card-grid li {
+    height: 40vh;
+    width: 20vh;
+    flex-grow: 1;
+    margin: 2vmin;
+    list-style: none;
+  } */

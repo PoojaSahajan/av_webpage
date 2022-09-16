@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap");
+/*   color variables */
+/*   border radius */
+/* *, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+h3 { white-space: nowrap; }
+body {
+  font-family: Oxygen, sans-serif;
+  margin: 2rem;
+}
+/* .wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
+  gap: 2rem;
+  justify-content: center;
+} */
+.card {
+  /* overflow: hidden; */
+  box-shadow: 0 4px 10px #e1e5ee;
+  border-radius: 0.4rem;
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; */
+  cursor: pointer;
+  transition: transform 200ms ease-in;
+  /* width:120%; */
+  border: none;
+   background-color: #F6FCFC; 
+  padding: 20px;
+   margin: 20px; 
+   background-color: rgb(224, 147, 147);
+}
+
+/* .card > *{
+  flex: 1 1 50%;
+} */
+
+
+/* .card__body{
+  background-color: rgb(224, 147, 147);
+} */
+
+.card__image {
+  height: 12rem;
+  width: 100%;
+  object-fit: cover;
+}
+.card__title {
+  padding: 1rem;
+  font-size: 20px;
+  font-weight: 600;
+  color:#3E6886;
+  text-align:center ;
+}
+.card__description {
+  padding: 0 1rem;
+}
+.card__btn {
+  padding: 1rem;
+  font-family: inherit;
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 1rem;
+  border: 2px solid #6BABDA;
+  background: transparent;
+  color: white;
+  background: #6BABDA;
+  border-radius: 0.2rem;
+  width: 258px;
+  /* transition: background 200ms ease-in, color 200ms ease-in; */
+}
+/* .card:hover {
+  transform: scale(1.02);
+} */
+/* .card:hover .card__btn { 
+  color: white;
+} */
+
+.cardCircleInfo{
+    width: 100%;
+  border-radius: 50%;
+  line-height: normal;
+  position: relative;
+  font-size: larger;
+}
+
